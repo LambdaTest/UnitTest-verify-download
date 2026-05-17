@@ -19,6 +19,11 @@ With TestMu AI (Formerly LambdaTest), you can run Python UnitTest Verify Downloa
 - Python 3.x and pip
 - A TestMu AI (Formerly LambdaTest) account with your username and access key
 
+### Prerequisites
+
+- Python 3.x and pip
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
 ## Getting Started with TestMu AI (Formerly LambdaTest)
 
 TestMu AI (Formerly LambdaTest) is an AI-native, multi-agent quality engineering platform for running Selenium, Playwright, Cypress, Appium, and more at scale across 3000+ real browsers and OS combinations.
